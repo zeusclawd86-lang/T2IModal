@@ -1,0 +1,5 @@
+novaAnimeXL_ilV5b.safetensors
+outputs/
+__pycache__/
+*.pyc
+.env
